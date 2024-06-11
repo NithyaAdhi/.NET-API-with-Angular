@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\github\.NET-API-with-Angular\CodePulse.API\obj\Debug\net8.0\CodePulse.API.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\github\.NET-API-with-Angular\CodePulse.API\obj\Debug\net8.0\CodePulse.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\github\.NET-API-with-Angular\CodePulse.API\obj\Debug\net8.0\CodePulse.API.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\github\.NET-API-with-Angular\CodePulse.API\obj\Debug\net8.0\CodePulse.API.AssemblyInfo.cs
+C:\Users\DELL\Documents\github\.NET-API-with-Angular\CodePulse.API\obj\Debug\net8.0\CodePulse.API.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\github\.NET-API-with-Angular\CodePulse.API\obj\Debug\net8.0\CodePulse.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Documents\github\.NET-API-with-Angular\CodePulse.API\obj\Debug\net8.0\CodePulse.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Documents\github\.NET-API-with-Angular\CodePulse.API\obj\Debug\net8.0\CodePulse.API.sourcelink.json

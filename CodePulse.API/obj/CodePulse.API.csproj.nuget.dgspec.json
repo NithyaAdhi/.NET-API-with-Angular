@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj": {}
+    "C:\\Users\\DELL\\Documents\\github\\.NET-API-with-Angular\\CodePulse.API\\CodePulse.API.csproj": {}
   },
   "projects": {
-    "D:\\dotnet\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj": {
+    "C:\\Users\\DELL\\Documents\\github\\.NET-API-with-Angular\\CodePulse.API\\CodePulse.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Documents\\github\\.NET-API-with-Angular\\CodePulse.API\\CodePulse.API.csproj",
         "projectName": "CodePulse.API",
-        "projectPath": "D:\\dotnet\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+        "projectPath": "C:\\Users\\DELL\\Documents\\github\\.NET-API-with-Angular\\CodePulse.API\\CodePulse.API.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\API\\CodePulse.API\\CodePulse.API\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Documents\\github\\.NET-API-with-Angular\\CodePulse.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,16 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0-preview.4.24267.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.4.24267.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
